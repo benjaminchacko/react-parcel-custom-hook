@@ -5,7 +5,7 @@ const App = () => {
   const windowSize = useWindowSize();
     return (
       <Fragment>
-        <h1>The screen width is: </h1>
+        <h1>The breakpoint for current width is: </h1>
         <span style={{ fontSize: "30px"}}>{windowSize}</span>
       </Fragment>
     );

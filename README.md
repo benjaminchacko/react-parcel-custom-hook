@@ -1,7 +1,7 @@
 # React Custom Hook - useWindowSize
 ### Language(s): React JS
 
-This repository is React Custom Hook - useWindowSize
+This repository is React Custom Hook - useWindowSize - to handle responsiveness in React JS
 
 ## Important Features:
 * Parcel Bundler
