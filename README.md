@@ -4,6 +4,7 @@
 This repository is React Custom Hook - useWindowSize - to handle responsiveness in React JS.
 
 Hosted @ [react-responsive-hook.netlify.com](https://react-responsive-hook.netlify.com) 
+Hosted @ [react-responsive-hook.surge.sh](react-responsive-hook.surge.sh) 
 
 ## Important Features:
 * Parcel Bundler
