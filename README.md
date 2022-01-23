@@ -1,9 +1,7 @@
 # React Custom Hook - useWindowSize
 ### Language(s): React JS
 
-This repository is React Custom Hook - useWindowSize - to handle responsiveness in React JS.
-
-Hosted @ [react-responsive-hook.netlify.com](https://react-responsive-hook.netlify.com) 
+This repository is a React custom hook - useWindowSize - to handle responsiveness in React JS.
 
 ## Important Features:
 * Parcel Bundler
